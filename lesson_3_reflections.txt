@@ -1,2 +1,4 @@
 When would you want to create a remote repository rather than keeping all your work local?
 In order to be able to access your work from different places.
+Describe the differences between forks, clones, and branches:
+Forks create a clone of a remote purely on GitHub. Clones just copy something locally. Branches do not involve any copying.
